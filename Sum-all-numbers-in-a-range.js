@@ -17,4 +17,5 @@ function sumAll(arr) {
     });
     return result;
 }
+//example
 sumAll([1, 4]);
